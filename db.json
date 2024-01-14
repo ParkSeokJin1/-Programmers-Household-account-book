@@ -1,0 +1,31 @@
+{
+  "current-asset": {
+    "price": 94000
+  },
+  "consumption-details": [
+    {
+      "id": 2,
+      "price": 10000,
+      "category": "카페",
+      "fundsAtTheTime": 90000,
+      "description": "아메리카노",
+      "createdAt": "2023-03-12T16:03:35.3392"
+    },
+    {
+      "price": 3000,
+      "category": "편의점",
+      "description": "음료수",
+      "fundsAtTheTime": 97000,
+      "createAt": "2024-01-13T15:33:21.145Z",
+      "id": 3
+    },
+    {
+      "price": 3000,
+      "category": "편의점",
+      "description": "3000",
+      "fundsAtTheTime": 94000,
+      "createAt": "2024-01-13T15:36:22.529Z",
+      "id": 4
+    }
+  ]
+}
